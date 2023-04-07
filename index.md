@@ -11,3 +11,8 @@ int main()
   return 0;
 }
 ```
+## Task List
+- [ ] Turn on gitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
